@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Layer0_0.png</Source>
+      <Name>Backgrounds\Layer0_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer0_0.xnb</Output>
+      <Time>2012-02-02T22:57:32.99254+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_1.png</Source>
+      <Name>Backgrounds\Layer0_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer0_1.xnb</Output>
+      <Time>2012-02-02T22:57:32.9995404+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer0_2.png</Source>
+      <Name>Backgrounds\Layer0_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer0_2.xnb</Output>
+      <Time>2012-02-02T22:57:33.0165414+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_0.png</Source>
+      <Name>Backgrounds\Layer1_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer1_0.xnb</Output>
+      <Time>2012-02-02T22:57:33.0335423+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_1.png</Source>
+      <Name>Backgrounds\Layer1_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer1_1.xnb</Output>
+      <Time>2012-02-02T22:57:33.0495433+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer1_2.png</Source>
+      <Name>Backgrounds\Layer1_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer1_2.xnb</Output>
+      <Time>2012-02-02T22:57:33.0695444+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_0.png</Source>
+      <Name>Backgrounds\Layer2_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer2_0.xnb</Output>
+      <Time>2012-02-02T22:57:33.0825451+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_1.png</Source>
+      <Name>Backgrounds\Layer2_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer2_1.xnb</Output>
+      <Time>2012-02-02T22:57:33.0845453+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Layer2_2.png</Source>
+      <Name>Backgrounds\Layer2_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Backgrounds\Layer2_2.xnb</Output>
+      <Time>2012-02-02T22:57:33.0965459+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2012-02-02T22:58:41.4174639+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2012-02-02T22:58:41.4434654+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2012-02-02T22:58:41.4514659+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2012-02-02T22:58:41.4604664+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2012-02-02T22:58:41.4664667+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2012-02-02T22:58:41.4724671+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2012-02-02T22:58:41.4734671+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2012-02-02T22:58:41.4864679+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2012-02-02T22:58:41.4954684+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_falling.png</Source>
+      <Name>Sprites\Byakuya\byakuya_falling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_falling.xnb</Output>
+      <Time>2012-02-04T02:02:53.2002961+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_dash_right.png</Source>
+      <Name>Sprites\Byakuya\byakuya_dash_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_dash_right.xnb</Output>
+      <Time>2012-02-03T20:34:34.1946056+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_dash_up.png</Source>
+      <Name>Sprites\Byakuya\byakuya_dash_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_dash_up.xnb</Output>
+      <Time>2012-02-03T20:34:34.1966058+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_jumping.png</Source>
+      <Name>Sprites\Byakuya\byakuya_jumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_jumping.xnb</Output>
+      <Time>2012-02-03T20:34:34.1996059+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_running.png</Source>
+      <Name>Sprites\Byakuya\byakuya_running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_running.xnb</Output>
+      <Time>2012-02-03T20:34:34.200606+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_standing.png</Source>
+      <Name>Sprites\Byakuya\byakuya_standing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_standing.xnb</Output>
+      <Time>2012-02-03T20:34:34.2106066+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_duck.png</Source>
+      <Name>Sprites\Byakuya\byakuya_duck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_duck.xnb</Output>
+      <Time>2012-02-04T03:02:57.253511+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_groundslash_1.png</Source>
+      <Name>Sprites\Byakuya\byakuya_groundslash_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_groundslash_1.xnb</Output>
+      <Time>2012-02-15T22:38:06.7546117+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_groundslash_2.png</Source>
+      <Name>Sprites\Byakuya\byakuya_groundslash_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_groundslash_2.xnb</Output>
+      <Time>2012-02-15T22:30:59.4411707+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_airSlash.png</Source>
+      <Name>Sprites\Byakuya\byakuya_airSlash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_airSlash.xnb</Output>
+      <Time>2012-02-15T23:32:20.5817199+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_shikaiSetup.png</Source>
+      <Name>Sprites\Byakuya\byakuya_shikaiSetup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_shikaiSetup.xnb</Output>
+      <Time>2012-02-18T23:21:20.9907427+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_shikaiRelease.png</Source>
+      <Name>Sprites\Byakuya\byakuya_shikaiRelease</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_shikaiRelease.xnb</Output>
+      <Time>2012-02-18T23:41:40.8097445+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Byakuya\byakuya_shikaiBlade.png</Source>
+      <Name>Sprites\Byakuya\byakuya_shikaiBlade</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\Sprites\Byakuya\byakuya_shikaiBlade.xnb</Output>
+      <Time>2012-02-19T00:12:48.937963+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGameContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\BleachGame\BleachGame\BleachGame\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-22T19:53:20.7608716+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

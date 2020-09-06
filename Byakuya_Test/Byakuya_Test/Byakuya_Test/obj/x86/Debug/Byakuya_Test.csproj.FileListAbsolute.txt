@@ -1,0 +1,11 @@
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Content\standing.xnb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Byakuya_Test.exe
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Byakuya_Test.pdb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\obj\x86\Debug\Byakuya_Test.exe
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\obj\x86\Debug\Byakuya_Test.pdb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Content\running.xnb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Content\jumping.xnb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Content\dash_up.xnb
+C:\Users\AcidPizza\Documents\Visual Studio 2010\Projects\Byakuya_Test\Byakuya_Test\Byakuya_Test\bin\x86\Debug\Content\dash_right.xnb
